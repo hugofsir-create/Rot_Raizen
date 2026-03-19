@@ -1,0 +1,5 @@
+{
+  "name": "Almacén Calico - Material No Apto",
+  "description": "Gestión de maestro de materiales no aptos con carga masiva desde Excel y operaciones CRUD.",
+  "requestFramePermissions": []
+}
